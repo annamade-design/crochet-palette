@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="app-icon-title">
+  <title id="app-icon-title">MadeByLala app icon</title>
+  <rect id="app-icon-background" width="512" height="512" fill="#dcae98"/>
+  <g id="app-icon-symbol" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="23">
+    <path id="app-icon-spoke-n" d="M256 256V163"/>
+    <path id="app-icon-spoke-ne" d="M256 256 321.76 190.24"/>
+    <path id="app-icon-spoke-e" d="M256 256H349"/>
+    <path id="app-icon-spoke-se" d="m256 256 65.76 65.76"/>
+    <path id="app-icon-spoke-s" d="M256 256v93"/>
+    <path id="app-icon-spoke-sw" d="m256 256-65.76 65.76"/>
+    <path id="app-icon-spoke-w" d="M256 256h-93"/>
+    <path id="app-icon-spoke-nw" d="m256 256-65.76-65.76"/>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+.DS_Store
+*.tmp
+*.bak
+*~
+screenshots/
+backups/
+local-test-output/
+test-output/
+AGENTS.md
+AGENTS.before-*.md
+index-before-*.html
+OSS_READINESS_AUDIT.md
+OSS_PACKAGING_REPORT.md
+sources/
+private-notes/
