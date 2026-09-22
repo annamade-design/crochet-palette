@@ -1,6 +1,6 @@
 # Crochet Palette
 
-An open-source stitch color planning tool for crochet and fiber artists.
+An open-source stitch colour planning tool for crochet and fibre artists.
 
 Crochet Palette is a browser-based space for exploring motif colours and planning stitch-by-stitch grids without an account or cloud service.
 
@@ -8,9 +8,19 @@ Crochet Palette is a browser-based space for exploring motif colours and plannin
 
 Generic pixel and grid tools do not always reflect the way crochet makers plan colours row by row and stitch by stitch. Crochet Palette is designed around a crochet-oriented visual workflow.
 
+## Motif Templates
+
+The application currently includes three selectable crochet motif templates:
+
+- 花朵方形花片
+- 经典祖母格 / Classic Granny Square
+- 花瓣扇贝方片 / Petal Shell Square
+
+Motifs can define different numbers of independently editable colour roles. Petal Shell Square currently provides five roles: Framework, Inner Petals, Shell Ring, Square Transition, and Border. It is a structural visual motif for colour planning, not an exact crochet pattern generator.
+
 ## Features
 
-- Two selectable crochet motif templates with independent colour roles.
+- Three selectable crochet motif templates with template-specific colour roles.
 - Per-role colour editing, locking, Shuffle, Reset, and Undo.
 - A reusable yarn palette with an add-colour control.
 - Saved palette Collection and motif Gallery.
@@ -42,6 +52,8 @@ Designed for modern desktop and mobile browsers. PNG export and rendering can va
 ## Project Status
 
 Early open-source release / active development.
+
+See [CHANGELOG.md](CHANGELOG.md) for release history.
 
 ## Contributing
 
